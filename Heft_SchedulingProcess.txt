@@ -1,0 +1,13 @@
+---------------------------HEFT---------------------------
+heft_makespan = 6.019132
+Task ID:0, processor ID:0, EST:0.000000, EFT:0.341288
+Task ID:1, processor ID:0, EST:0.341288, EFT:1.316631
+Task ID:2, processor ID:0, EST:1.316631, EFT:2.462203
+Task ID:3, processor ID:0, EST:2.462203, EFT:3.298075
+Task ID:5, processor ID:0, EST:3.298075, EFT:3.929797
+Task ID:4, processor ID:2, EST:3.654332, EFT:5.073836
+Task ID:9, processor ID:0, EST:3.929797, EFT:5.098906
+Task ID:6, processor ID:0, EST:5.098906, EFT:6.019132
+Task ID:7, processor ID:1, EST:3.027559, EFT:3.668445
+Task ID:8, processor ID:1, EST:4.088702, EFT:4.489694
+

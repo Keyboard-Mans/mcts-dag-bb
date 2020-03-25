@@ -1,0 +1,8 @@
+-------------------------PEFT-------------------------
+peft_makespan = 2.660824
+Task ID:1, processor ID:0, EST:0.000000, EFT:0.438631
+Task ID:2, processor ID:0, EST:0.438631, EFT:1.095199
+Task ID:3, processor ID:0, EST:1.095199, EFT:1.715911
+Task ID:0, processor ID:2, EST:0.000000, EFT:1.641429
+Task ID:4, processor ID:0, EST:1.715911, EFT:2.660824
+
